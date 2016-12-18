@@ -4,4 +4,5 @@ Chocolatey: "repo" for Windows
     https://chocolatey.org/
 CyberChef (QCHQ)
     https://github.com/gchq/CyberChef
-
+dumpasn1: terminal ASN.1 parser
+    https://github.com/clibs/dumpasn1

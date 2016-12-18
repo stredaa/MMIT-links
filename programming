@@ -2,3 +2,5 @@ Bit twiddling
     ttps://doc.lagout.org/security/Hackers%20Delight.pdf
 CVX regression + SVM
     http://www.cs.stanford.edu/~tachim/optimization_code.html
+Jinja: light Python template engine
+    http://jinja.pocoo.org/

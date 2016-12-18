@@ -2,3 +2,5 @@ Scikit: digits recognition
     http://scikit-learn.org/stable/auto_examples/classification/plot_digits_classification.html
 Training set: digits 28x28
     http://yann.lecun.com/exdb/mnist/
+Training set: spam
+    http://untroubled.org/spam/
